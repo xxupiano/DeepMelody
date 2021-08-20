@@ -1,4 +1,4 @@
-# Deep-Melody
+# DeepMelody
 Music Generation with LSTM
 * The training data set is of MIDI format in music_midi.
 * Train<br>
