@@ -4,14 +4,14 @@ Music Generation with LSTM
 ## Requirements
 
 - python = 2.7
-- pip install
-  tensorflow==1.14.0
-  keras==2.3.1
-  h5py
-  music21
-- sudo apt install
-  ffmpeg
-  timidity
+- pip install<br>
+  tensorflow==1.14.0<br>
+  keras==2.3.1<br>
+  h5py<br>
+  music21<br>
+- sudo apt install<br>
+  ffmpeg<br>
+  timidity<br>
 
 
 
