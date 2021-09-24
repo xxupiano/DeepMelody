@@ -19,7 +19,7 @@ Monophonic Piano Generation with LSTM
 
 * The dataset is in `music_midi`.
 * `python train.py`
-  Set training 100 epochs in default, but we can stop anytime (Ctrl + C).
+  Set training 100 epochs in default, but it can be stopped anytime (Ctrl + C).
 
 
 
