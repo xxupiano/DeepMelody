@@ -18,16 +18,16 @@ Monophonic Piano Generation with LSTM
 ## Train
 
 * The dataset is in `music_midi`.
-* `python train.py`
+* `python train.py`<br>
   Set training 100 epochs in default, but it can be stopped anytime (Ctrl + C).
 
 
 
 ## Generate
 
-- Choose the best parameter  `.hdf5`  produced in training process 
+- Choose the best parameter  `.hdf5`  produced in training process <br>
   and rename it `best-weights.hdf5`
 
-- `python generate.py`
+- `python generate.py`<br>
   Generate `output.mid` firstly, and then turn it into `output.mp3`
 
