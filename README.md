@@ -1,5 +1,5 @@
 # DeepMelody
-Music Generation with LSTM
+Monophonic Piano Generation with LSTM
 
 ## Requirements
 
